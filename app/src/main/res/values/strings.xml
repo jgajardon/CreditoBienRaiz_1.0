@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreditoBienRaiz</string>
+    <string name="encabezado">Escoja Bien Raiz</string>
+    <string name="hello_world">hello world</string>
+</resources>
