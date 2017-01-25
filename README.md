@@ -2,4 +2,4 @@
 
 Aplicación Android para la gestion de un credito bien raiz.
 
-Proyecto Academico.
+Proyecto Academico del ramo de "Desarrollo de Aplicaciones Moviles".
